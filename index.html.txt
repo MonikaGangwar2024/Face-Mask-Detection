@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Face Mask Detection</title>
+</head>
+<body>
+  <h1>AI Face Mask Detection Website</h1>
+  <p>Website is now live.</p>
+</body>
+</html>
